@@ -1,48 +1,51 @@
 # Apurv Sharma
 
-Data Engineering & Analytics Enthusiast  
-B.Tech CSE (Data Science) | ABES Engineering College  
+Data Analyst | SQL & Python  
+B.Tech CSE (Data Science) – ABES Engineering College  
 Ghaziabad, India  
 
 ---
 
-## 🔎 What I Work On
+## 🔎 Focus Areas
 
-- SQL-driven analytical systems  
-- ETL pipeline development  
-- Cloud-based data workflows (AWS S3)  
-- Dashboard-driven business insights  
+- SQL-based data analysis
+- Exploratory Data Analysis (EDA)
+- Data cleaning & transformation
+- Dashboard development (Power BI)
+- Basic ETL pipeline design
 
 ---
 
 ## ⚙ Tech Stack
 
-Python | SQL | PostgreSQL | MySQL  
-pandas | NumPy | Power BI  
-AWS S3 | ETL Pipelines  
-Git | Jupyter | REST APIs  
+**Languages:** Python, SQL  
+**Libraries:** pandas, NumPy, matplotlib, seaborn  
+**Databases:** PostgreSQL, MySQL, SQLite  
+**Visualization:** Power BI, Excel  
+**Concepts:** JOIN, CTE, Window Functions, Aggregations, Data Modeling  
 
 ---
 
 ## 📊 Selected Projects
 
-### Netflix Data Analysis (SQL)
-Advanced SQL analytics using JOIN, CTE, and window functions to analyze content trends and optimize query performance.
+### Netflix Data Analysis using SQL
+Performed advanced SQL queries (JOIN, CTE, window functions) to analyze genre trends, country distribution, and content patterns.
 
-### Sales Analytics Dashboard (Power BI)
-Built ETL pipeline and interactive dashboard to analyze revenue KPIs and regional performance.
+### IPL Data Analysis using Python
+Conducted EDA using pandas and seaborn to identify performance trends and statistical insights from structured datasets.
 
-### AWS S3 PDF Processing System
-Cloud-based document ETL system integrating API-based querying for structured text extraction.
-
----
-
-## 📈 Currently Building
-
-- Advanced SQL performance optimization  
-- Scalable data pipelines  
-- Cloud-integrated analytics systems  
+### Sales Data Analysis & Power BI Dashboard
+Built interactive dashboard to visualize KPIs, revenue trends, and regional performance using cleaned and transformed sales data.
 
 ---
 
-Open to data engineering, analytics, and cloud-data internships.
+## 📈 Currently Strengthening
+
+- Advanced SQL problem solving  
+- Query optimization  
+- Business-focused data storytelling  
+- Structured analytical reporting  
+
+---
+
+Open to data analyst and analytics-focused internship opportunities.
