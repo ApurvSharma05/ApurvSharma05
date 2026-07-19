@@ -1,51 +1,56 @@
 # Apurv Sharma
 
-Data Analyst | SQL & Python  
-B.Tech CSE (Data Science) – ABES Engineering College  
-Ghaziabad, India  
+AI & Data Engineering Enthusiast | Python, SQL, LLMs
+
+B.Tech CSE (Data Science) – ABES Engineering College
+Ghaziabad, India
 
 ---
 
-## 🔎 Focus Areas
+## Focus Areas
 
-- SQL-based data analysis
-- Exploratory Data Analysis (EDA)
-- Data cleaning & transformation
-- Dashboard development (Power BI)
-- Basic ETL pipeline design
-
----
-
-## ⚙ Tech Stack
-
-**Languages:** Python, SQL  
-**Libraries:** pandas, NumPy, matplotlib, seaborn  
-**Databases:** PostgreSQL, MySQL, SQLite  
-**Visualization:** Power BI, Excel  
-**Concepts:** JOIN, CTE, Window Functions, Aggregations, Data Modeling  
+* AI Automation & Agentic Workflows
+* LLM Applications (Groq, Llama 3)
+* RAG Pipelines & Vector Databases
+* ETL Pipelines & Data Engineering
+* Data Analysis & Exploratory Data Analysis
 
 ---
 
-## 📊 Selected Projects
+## Tech Stack
 
-### Netflix Data Analysis using SQL
-Performed advanced SQL queries (JOIN, CTE, window functions) to analyze genre trends, country distribution, and content patterns.
-
-### IPL Data Analysis using Python
-Conducted EDA using pandas and seaborn to identify performance trends and statistical insights from structured datasets.
-
-### Sales Data Analysis & Power BI Dashboard
-Built interactive dashboard to visualize KPIs, revenue trends, and regional performance using cleaned and transformed sales data.
+**Languages:** Python, SQL
+**AI/LLM:** Groq API, Llama 3, Prompt Engineering, RAG, Pinecone, HuggingFace
+**Data:** pandas, NumPy, SQL, EDA, ETL Pipelines
+**Databases:** PostgreSQL, SQLite
+**Cloud & Tools:** AWS, Git, GitHub, Streamlit Cloud, Telegram Bot API
 
 ---
 
-## 📈 Currently Strengthening
+## Selected Projects
 
-- Advanced SQL problem solving  
-- Query optimization  
-- Business-focused data storytelling  
-- Structured analytical reporting  
+### EPC Competitor Intelligence Agent
+
+Built an AI-powered ETL pipeline processing 880+ articles daily from 24+ RSS feeds using Groq Llama 3.3 70B and automated Telegram intelligence delivery.
+
+### Talk-to-Syllabus
+
+Developed a full-stack RAG application enabling semantic search across 200+ pages of academic content using Pinecone and HuggingFace embeddings.
+
+### IPL Data Analysis (2008–2025)
+
+Performed exploratory data analysis on 250,000+ IPL records and created advanced visualizations to uncover team and player performance trends.
 
 ---
 
-Open to data analyst and analytics-focused internship opportunities.
+## Currently Strengthening
+
+* Agentic AI Systems
+* Advanced Prompt Engineering
+* Scalable Data Pipelines
+* Cloud Deployment (AWS)
+* System Design for AI Applications
+
+---
+
+Open to AI Engineering, Data Engineering, and Analytics internship opportunities.
